@@ -1,5 +1,5 @@
 import './App.css';
-// import MyComponent from './Component/MyComponent';
+ import MyComponent from './Component/MyComponent';
 import Active from './Component/Active';
 // import Home from './Component/Home';
 //  import About from "./Component/About"
@@ -8,12 +8,12 @@ import Active from './Component/Active';
 function App() {
   return (
     <div className="App">
-      {/* <MyComponent/> */}
-      <Active/>
-      {/* <MyContext>
-      <About/>
+      <MyComponent/>
+      {/* <Active/> */}
+       {/* <MyContext>
+      {/* <About/>
       <Home />
-      </MyContext> */}
+      </MyContext> */} 
     </div>
   );
 }
