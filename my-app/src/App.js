@@ -1,6 +1,6 @@
 import './App.css';
  import MyComponent from './Component/MyComponent';
-import Active from './Component/Active';
+//import Active from './Component/Active';
 // import Home from './Component/Home';
 //  import About from "./Component/About"
 // import MyContext from './Context/MyContext';
